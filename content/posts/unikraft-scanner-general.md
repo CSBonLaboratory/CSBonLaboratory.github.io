@@ -18,6 +18,8 @@ cover:
 
 ---
 
+## Read the full paper [here](https://csbonlaboratory.github.io/posts/Unikraft-Scanner-Paper.pdf) ## 
+
 ### What is **static code analysis** ? ###
 
 In order to find vulnerabilities, security solutions may employ various complex but  intelligent algorithms and heuristics that parse the source code of the targeted project and find possible vulnerabilites that further need human decisions regarding their impact and relevance.
